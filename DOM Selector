@@ -1,0 +1,4 @@
+DOM selector is used to select HTML elements within the documents using javaScript.
+There is 5 ways in whixh we can select a HTML elements.
+1. getElementByTagName(): This method returns all the elements that matches the specified Tag name. 
+for example: document.getElementsByTagName('h1') returns a collection of items matching the tag name h1. And since we got only h1 element.
